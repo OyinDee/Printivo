@@ -1,0 +1,277 @@
+nav{
+    padding-right: 10px !important;
+    color: #9daab6 !important;
+    background-color: #F7F6F4 !important;
+}
+
+#BN{
+    font-size: 15px;
+}
+
+#navlink{
+font-size: 14px;
+}
+
+#FlagImg{
+  height: 13px;
+  width: 16px;
+}
+
+#FlagContain{
+    width: 90px;
+    height: 39px;
+}
+
+#Nigeria{
+    font-size: 13px;
+    margin-left: 6px !important;
+}
+
+.am{
+    margin-left: 10px !important;
+    margin-top: -4px;
+}
+
+#Icon{
+    height: 38px;
+    width: 38px;
+    margin-left: 31px !important;
+}
+
+#navbar-text{
+    font-size: 14px !important;
+
+}
+
+#sec{
+    background-color: #ECE8D9 !important;
+}
+
+
+#sec2{
+    background-color: #ECE8D9 !important;
+}
+
+#opo{
+    margin-left: 220px !important;
+}
+
+#secnav{
+    background-color: #ECE8D9 !important;
+}
+
+#mmm{
+    margin-top: -50px;
+    margin-left: 340px;
+    font-size: 15px;
+   
+}
+
+#vee{
+    color: #515F73;
+    font-weight: 5%;
+    
+
+}
+
+#h1{
+    font-size: 73px !important;
+    font-family: SF Pro !important;
+    color: #384A62 !important;
+}
+
+
+#h2{
+    font-size: 25px !important;
+    color: #708095 !important; 
+}
+
+#search{
+    height: 90px !important;
+    width: 600px !important;
+}
+
+#navbar{
+    margin-left: px !important;
+}
+
+#cards{
+    margin-top: 40px !important;
+    margin-left: px !important;
+}
+
+#veer{
+    justify-content: space-between !important;
+}
+
+#big{
+    width: 1050px !important;
+}
+
+#crown{
+    width: 30px !important;
+    height: 30px !important;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+
+#ano{
+    background-color: #EDF6FD !important;
+}
+
+#hand{
+    width: 35px !important;
+    height: 35px !important;
+    margin-top: px;
+    margin-left: 10px;
+}
+
+#bod{
+    background-color: #FFFFFF !important;
+    width: 300px !important;
+     
+            
+}
+
+#nnn{
+    height: 60px;
+    width: 50px;
+}
+
+#ford1{
+    width: 200px !important;
+    height: 60px !important;
+}
+
+
+
+#bon{
+    margin-left: -px !important;
+    margin-top: -10px !important;
+}
+
+#gree{
+    background-color: #384A62 !important;
+    font-size: 14px !important;
+    line-height: 30px !important;
+
+}
+
+#foot{
+    background-color: #CBCAC8;
+    height: 90px !important;
+}
+
+#mem{
+    margin-left: -15px !important;
+}
+
+#mm{
+    width: 40px !important;
+    height: 30px !important;
+}
+
+#ne{
+    margin-left: 400px !important;
+    background-color: #CBCAC8 !important;
+}
+
+#nor{
+    background-color: #D77F81;
+}
+
+
+
+@media (min-width:300px) and (max-width: 600px){
+    #h1{
+    font-size: 35px !important;
+    font-family: SF Pro !important;
+    color: #384A62 !important;
+}
+
+#h2{
+    font-size: 17px !important;
+    color: #708095 !important; 
+}
+
+#navbar{
+    margin-top: -20px;
+    margin-left: -10px !important;
+}
+
+#navbar2{
+    
+    font-size: 14px !important;
+}
+
+#search{
+    height: 50px !important;
+    width: 290px !important;
+}
+
+#nm{
+    font-size: 13px;
+}
+
+#big{
+   margin-left: -25px !important;
+    width: 300px !important;
+}
+
+#bla{
+  display: none !important;  
+}
+
+
+}
+
+
+
+
+
+
+
+@media (min-width:400px) and (max-width: 900px){
+    #h1{
+    font-size: 45px !important;
+    font-family: SF Pro !important;
+    color: #384A62 !important;
+}
+
+#h2{
+    font-size: 21px !important;
+    color: #708095 !important; 
+}
+
+#navbar{
+    margin-top: -20px;
+    margin-left: -10px !important;
+}
+
+#navbar2{
+    
+    font-size: 17px !important;
+}
+
+#search{
+    height: 80px !important;
+    width: 380px !important;
+}
+
+#nm{
+    font-size: 13px;
+}
+
+#big{
+   margin-left: -25px !important;
+    width: 450px !important; 
+}
+
+#bla{
+  display: none !important;  
+}
+
+
+}
